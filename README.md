@@ -1,1 +1,2 @@
-# CS32_Discussion
+# CS 32 Discussion
+I will put material from my discussion section here.
